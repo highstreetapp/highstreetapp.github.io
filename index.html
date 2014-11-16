@@ -37,15 +37,6 @@
         background-color: #fff;
       }
 
-      /* some default styles for mode="cover" on core-scaffold */
-      core-scaffold[mode=cover]::shadow core-header-panel::shadow #mainContainer {
-        left: 120px;
-      }
-
-      core-scaffold[mode=cover] .content {
-        margin: 20px 100px 20px 0;
-      }
-
       google-map {
         display: block;
         height: 500px;
@@ -68,7 +59,7 @@
       <div tool>Sales</div>
       
       <div class="content">
-        <google-map latitude="40.79611" longitude="-77.86278" draggable="true" showCenterMarker disableDefaultUI maxZoom="19" minZoom="14">
+        <google-map latitude="40.79611" longitude="-77.86278" draggable="true" disableDefaultUI maxZoom="19" minZoom="14">
         </google-map>
       </div>
     </core-scaffold>
