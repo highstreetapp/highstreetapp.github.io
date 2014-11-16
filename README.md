@@ -1,4 +1,7 @@
-highstreetapp.github.io
-=======================
+histreet.github.io
+==================
 
-Highstreet webapp
+Webapp for HighStreet
+
+### Name
+The repository name will change, but "highstreet" was taken.
