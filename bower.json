@@ -1,0 +1,22 @@
+{
+  "name": "highstreetapp.github.io",
+  "version": "0.0.0",
+  "homepage": "http://highstreet.github.io",
+  "authors": [
+    "zdwolfe",
+    "sahirc"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer-ui-card": "Polymer/polymer-ui-card#~0.3.0"
+  }
+}
